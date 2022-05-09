@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Item
+  - Attack
+  - Platform
+  - MovingPlatform
+  - Out
+  - Up
+  - Friend
+  - Destroy
+  - Door
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Platform
+  - Player
+  - Enemy
+  - Item
+  - PlayerDamaged
+  - Warning
+  - Attack
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Behind
+    uniqueID: 4195383139
+    locked: 0
+  - name: Platform
+    uniqueID: 4127095623
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 2641424269
+    locked: 0
+  - name: UI
+    uniqueID: 369845957
+    locked: 0
